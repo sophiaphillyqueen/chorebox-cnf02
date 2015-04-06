@@ -1,0 +1,6 @@
+
+takosa="${0}"
+takosa="$(dirname "${takosa}")"
+
+sh "${takosa}/pre-build.sh"
+
